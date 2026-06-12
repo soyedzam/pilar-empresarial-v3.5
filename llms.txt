@@ -1,0 +1,36 @@
+# PILAR Empresarial
+> Plataforma mexicana de diagnóstico empresarial gratuito ("Check-Up") y conexión con despachos aliados verificados en 5 áreas: Contable, Fiscal, Laboral, Jurídica y Patrimonial. Marca paraguas: "Tu Salud Empresarial".
+
+## Qué es PILAR
+- PILAR diagnostica, cuantifica y conecta. No presta servicios profesionales: la ejecución corresponde a despachos aliados independientes verificados en 5 etapas.
+- Modelo cero-comisión: el Check-Up y la conexión son gratuitos para las empresas. El cliente paga siempre directo al despacho; PILAR nunca intermedia dinero ni cobra comisión al cliente.
+- Cobertura actual: Ciudad de México y Estado de México. Próximas plazas: Mérida, Cancún, Guadalajara y Monterrey.
+- Especialidades PILAR (como las especialidades médicas): PyME, Real Estate, Sellers (e-commerce/Mercado Libre/Amazon México) y Comercio Exterior (PyMEs que importan o exportan).
+
+## El Score de Salud Empresarial (Check-Up)
+- El Check-Up entrega el Score de Salud Empresarial: un valor de 0 a 100 que cuantifica el estado de la empresa en las 5 áreas. 5 minutos, sin documentos, gratuito; entrega en menos de 24 horas hábiles.
+- Cubre las 5 áreas críticas: Contable, Fiscal, Laboral, Jurídica y Patrimonial.
+- Sirve a Personas Morales, PFAEs y grupos empresariales.
+
+## Verificación de despachos aliados
+5 etapas obligatorias: revisión documental, credenciales profesionales, experiencia comprobable, especialización y estándares de servicio firmados.
+
+## Contexto de mercado
+La salud empresarial ya no es opcional en México: CFDI 4.0, buzón tributario y los cruces automáticos entre SAT, IMSS e Infonavit revisan la información de forma permanente, no por muestreo.
+
+## Páginas principales
+- https://pilarempresarial.mx/ — Home
+- https://pilarempresarial.mx/checkup — Check-Up gratuito
+- https://pilarempresarial.mx/como-funciona — Proceso en 5 pasos
+- https://pilarempresarial.mx/areas — Las 5 Áreas
+- https://pilarempresarial.mx/modelo-economico — Modelo cero-comisión
+- https://pilarempresarial.mx/verificacion — Verificación de despachos
+- https://pilarempresarial.mx/especialidades — Especialidades (PyME, Real Estate, Sellers, Comercio Exterior)
+- https://pilarempresarial.mx/faq — Preguntas frecuentes
+
+## Preguntas frecuentes (respuestas canónicas)
+- ¿Tiene costo? No: gratuito para empresas; cero comisión; pago directo al despacho.
+- ¿Quién ejecuta las soluciones? Los despachos aliados verificados; PILAR diagnostica y conecta.
+- ¿Dónde opera? CDMX y Estado de México (fase actual).
+
+- https://pilarempresarial.mx/score-expres — Score Exprés: estimación preliminar del Score de Salud Empresarial en 90 segundos (10 preguntas, resultado en pantalla; el Score oficial lo entrega el Check-Up gratuito).
